@@ -5,49 +5,30 @@ image: test-image.png
 description: All the words none of the communication.
 ---
 
-In my years as a software developer, consultant and tutor, I have found that
-people in technical endeavors can and often get confused about terms. We have to
-communicate about very complicated things and there are only so many words to go
-around. This has gotten me in some awfully confusing conversations. One time I
-was trying to have a conversation about React and global variables. In the
-context of React, "context" is just a store of data which is globally
-accessible. In many other contexts, "context" is defined as a data storage or
-the database. So, if you didn't have context on our conversation you could walk
-up and hear us disagreeing about whether we should use context to store data.
-Okay, I'll stop.
+Tech has a word problem. We take normal words, give them new meanings in our tools and frameworks, and then mix those meanings up when we talk to each other. Two people can use the same word and mean completely different things — and neither one notices.
 
-But, the word "context" is a great example of a word which can
-have many different meanings and can cause significant confusion within our
-technical endeavors.
+Here's a real example. I was talking with a colleague about React and global state. In React, "context" is a built-in way to share data across components. In many other frameworks, "context" means something closer to a database session or scoped environment. We never checked which meaning we were using. We spent ten minutes arguing before we figured out we actually agreed — we were just using the same word two different ways.
 
-## What can we do about it?
+"Context" is one word. There are hundreds more like it.
 
-I have found that teams or groups which are the most tolerant of these issues
-have incredibly candid and trusting cultures that are not afraid to courteously
-interrupt to ask for clarification. How do we get there?
+## What can you do about it?
 
-### Start with Awareness
+### Check before you assume
 
-Bring your team together and make sure that the team is aware that this can be
-an issue.
+When a key term comes up, pause and make sure you both mean the same thing. Don't assume that using the same word means you're on the same page. It takes ten seconds and can save hours.
 
-### Encourage Humility
+If you sense something isn't adding up, just ask: "When you say X, do you mean...?" That one question fixes a lot.
 
-We all want to be smart. We all want to be the ones who know lots and are super
-capable. However, it is usually the team members who keep an open heart and
-questioning mind who end up understanding instead of getting frustrated and
-writing the other guy off as an idiot. Encourage humility on your teams. It is
-_required_.
+### Stay curious, not defensive
 
-### Write Stuff Down
+When something stops making sense, the easy move is to assume the other person is wrong. Don't. Ask a question instead. The people who understand the most aren't the ones with the biggest vocabulary — they're the ones who keep asking until things click.
 
-Many teams these days have high turnover due to instability in the software job
-space. Writing down definitions and company / team specific terms can help
-transfer your knowledge and help set you apart as more of a professional.
+### Write definitions down
+
+When you settle on a shared meaning mid-conversation, write it down. A short list of project-specific terms keeps you from having the same argument next month. It also shows you care about clear communication, which is rare and valuable.
 
 ## Conclusion
 
-The technical things we do are confusing and complicated in general. It is in
-our best interest to keep things organized and as simple as possible. This
-effort starts with the very words we use to bring our complex and fuzzy concepts
-into existence. Maintainable systems start clear and well defined concepts.
+Technical words carry a lot of weight, and they don't always mean the same thing to everyone. When something feels off mid-conversation, say so — "I want to make sure we're using this term the same way" — and sort it out before moving on.
+
+Maintainable systems start with clear, well-defined concepts. Clear concepts start with people willing to pause and check.
