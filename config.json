@@ -1,6 +1,6 @@
 {
     "intro": "Hi, I'm Tristan. This is my site!",
     "featured_articles": ["naming-code-structures", "term-bloat"],
-    "all_visible_articles": ["naming-code-structures", "term-bloat", "inflation"]
+    "all_visible_articles": ["naming-code-structures", "term-bloat"]
 }
 
