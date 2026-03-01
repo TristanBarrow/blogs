@@ -1,6 +1,6 @@
 {
     "intro": "Hi, I'm Tristan. This is my site!",
-    "featured_articles": ["naming-code-structures", "term-bloat"],
-    "all_visible_articles": ["naming-code-structures", "term-bloat"]
+    "featured_articles": ["naming-code-structures", "term-bloat", "the-hardest-thing-in-programming-is-people"],
+    "all_visible_articles": ["naming-code-structures", "term-bloat", "the-hardest-thing-in-programming-is-people"]
 }
 
