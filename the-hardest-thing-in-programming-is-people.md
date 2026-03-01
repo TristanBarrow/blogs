@@ -5,56 +5,52 @@ image: people-complexity.png
 description: Programming is automating thought, and thought is inherently human.
 ---
 
-The hardest thing about software is people.
+I once watched a team spend three weeks building a feature that perfectly solved the wrong problem. The code was clean, the tests passed, and the implementation was elegant. But somewhere between the customer's complaint and the developer's keyboard, the actual need got lost in translation.
 
-Any reasonable person can learn to program. Even the deeper, seemingly complex concepts are manageable. Take pointers — they're just numbers that hold addresses to other locations in memory. Like reading an address on a letter. It's not rocket science.
+The technical work was straightforward. The human communication was where everything broke down.
 
-Programming itself just takes experience. Sit down, learn it, try to make something. Put in the time.
-
-But people? That's where real complexity enters.
-
-## The Missing Information Problem
-
-Technical problems have clear parameters. You sit down, work through the logic, and eventually solve them. But when you work with people, you're missing critical information. You don't know what someone's true incentives are. You're not them. There's always incomplete data.
-
-This matters because all software automates existing processes. And those processes belong to people.
+This pattern repeats everywhere in software. Technical concepts — even the tricky ones like pointers or async programming — have clear rules. You can sit with them long enough and figure them out. The difficulty isn't in the code itself. The difficulty is in the people.
 
 ## Software as Automated Thought
 
-Think about the evolution of human communication. First came gestures and grunts. Then speech — the ability to replay a thought process from one mind to another in real time. Then writing — recording those thought processes to travel across time and distance.
+Understanding why people make software hard requires understanding what software actually is. I think of it as the latest step in the evolution of human communication.
 
-Software is the next layer. It's the automation of thought processes and mechanical tasks at a speed humans can't match. Everything software does could theoretically be done by a person with enough paper and pencils. But the speed makes it practical.
+First came physical gestures and vocal sounds. Then speech — the ability to take a thought process in your head and replay it in someone else's mind in real time. Then writing evolved, which let you record those thought processes and send them across distance and time.
 
-As a software engineer, you're not just a coder or a tinkerer. You're a thought automator. You watch someone do a process manually, then emulate it in software and make it scalable, accessible, downloadable.
+Software is the next layer. When you write code, you're taking a process that someone does manually — a series of decisions and actions — and automating it so it can run at a speed and scale humans can't match. You're not just writing instructions for a computer. You're capturing human thought processes and making them executable.
 
-And that's where the difficulty lives.
+This is why a customer success manager reviewing support tickets isn't fundamentally different from a script that categorizes them. Both are following a decision tree. The software version just runs faster and doesn't need sleep.
 
-## The Distance Problem
+The implication: every software project is trying to capture and automate someone's thinking.
 
-You're distanced from the customer. You don't sit with them in their room watching how they interact with the app. You can use analytics and feedback mechanisms, but there's still a gap.
+## Where the Complexity Lives
 
-Then there's the founder or CEO with a vision. Does that vision accurately reflect the customer's actual problem? If not, the whole system might fail or stall.
+If software is automated thought, the hard part is accurately capturing the right thoughts from the right people. This requires solving several human problems that have no algorithmic solution.
 
-What if developers get siloed? Software becomes increasingly complicated to write because there's no unified approach. Code is just documentation — documents we're trying to work on together. Silos break down organization and slow everything down.
+You're working from incomplete information. You don't sit with customers while they use your app. You can't read your coworker's actual motivations. A product manager interprets what a customer says, a designer interprets that interpretation, and then you interpret the designer's mockups. At each step, information degrades.
 
-The chain of information is fragile. Customer feedback has to break out of the customer's world, reach the business owner, get to the product manager, get prioritized, and then actually get acted on. Each link in that chain involves people with their own motives, desires, and goals.
+The founder has a vision. Does it match what customers actually need? You can't know until you build it, ship it, and watch what happens. By then you've invested weeks or months.
 
-When everyone has their own goals, it becomes a political game. People try to get what they want out of the system instead of contributing to it. This is where complexity explodes.
+Developers get siloed. Each team develops its own patterns and assumptions. Code is documentation we're trying to write together, but when there's no shared understanding of structure and purpose, every new feature becomes harder to add. The technical debt isn't in the code — it's in the misaligned mental models.
 
-## Communication is the Foundation
+Consider the information chain: a customer has a problem, tells support, who files a ticket, which a product manager reviews and prioritizes, which a designer mocks up, which an engineer builds. Every person in that chain has their own goals, pressures, and incentives. The support rep wants to close tickets quickly. The product manager wants to hit roadmap goals. The designer wants clean interfaces. The engineer wants maintainable code.
 
-That's why businesses fail. That's why building a successful software business is possibly one of the most complicated things you can do. Not because of technical complexity, but because of the human factors.
+These goals aren't necessarily aligned. When they conflict, the complexity multiplies. Not because the code is hard, but because the people haven't agreed on what success looks like.
 
-If you want to be a good software developer, learning to write and communicate effectively will do more for your career than perfectly mastering code. If you're already a tinkerer, already love programming, the next step to success is learning to work with people. Read them. Understand underlying motives.
+## What This Means for Developers
 
-Programming is more like writing and philosophy than it is like math. The math and science parts? That's actually the easy part.
+I've watched developers master algorithms, system design, and architectural patterns, then struggle to understand why their carefully built features don't get used. The gap is usually communication.
 
-The hard part is the people.
+When you write code, you're translating someone else's thought process into executable instructions. That translation requires understanding what they actually meant, not just what they said. It requires asking clarifying questions. It requires checking your assumptions.
+
+This is why I think programming resembles writing more than it resembles mathematics. Math has provably correct answers. Writing — and programming — requires making yourself understood by another person. You can write syntactically correct code that solves the wrong problem, just like you can write grammatically correct sentences that miss the point.
+
+The developers who have the most impact aren't necessarily the ones who write the cleverest code. They're the ones who can listen to a customer, ask the right questions, translate that into a technical approach, and then communicate that approach to their team. The technical execution matters, but it comes after the human understanding.
 
 ## Conclusion
 
-Software is thought automation. Thought is human. And humans are the most complex variable in any system.
+Building software means capturing and automating human thought processes. Those processes live in people's heads, which means you can't extract them with better tools or smarter algorithms. You extract them through conversation, observation, and iteration.
 
-If you can't communicate as a thought automator, you're failing to do your job. The programming isn't enough to make it happen. Communication is the core, the foundation, the absolute rock of being a good software person.
+The hardest thing about software is people because software is fundamentally about people. The code is just the artifact. The real work is understanding what to build, why it matters, and how it fits into someone's actual workflow.
 
-Master that, and you'll solve harder problems than any algorithm ever will.
+Technical skills create possibilities. Communication skills determine whether those possibilities become something useful.
