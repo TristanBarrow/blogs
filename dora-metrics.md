@@ -109,8 +109,17 @@ Just as successful CEOs obsess over their financial bottom line, successful engi
   * Dashboard setup
   * Reporting cadence
   * Making metrics visible to the team
-
-*[Gap: Need practical examples of how to track/display these metrics—consider adding specifics or noting this as implementation detail]*
+- **How to measure (pragmatically)**:
+  * **Early-stage startups**: Don't overthink it—use "thumb in the wind" calculations without fancy tools
+    - Count deploys manually from git logs
+    - Track incidents in a simple spreadsheet
+    - Estimate lead times from your project management tool
+  * **Medium to large organizations**: Leverage existing tools or basic reporting
+    - CI/CD platforms (GitHub Actions, GitLab CI, Jenkins) already track deploy frequency
+    - Incident management tools (PagerDuty, Opsgenie) track MTTR automatically
+    - Pull request data reveals lead time for changes
+    - Pre-built dashboards (DataDog, New Relic, Grafana) can aggregate these metrics
+  * **The point**: Start simple, measure something—perfect measurement comes later
 
 ### From Metrics to Action: The DORA Capabilities as Levers
 - **The transition from "what" to "how"**: Knowing your numbers is step one
@@ -155,7 +164,7 @@ Just as successful CEOs obsess over their financial bottom line, successful engi
 - **Humble attribution**: "It's not my answer, it's very simple, and it has research backing it"
 
 ### Feedback
-- [ ] **How to measure**: Brief mention of tools/approaches for tracking these metrics
+- [x] **How to measure**: Brief mention of tools/approaches for tracking these metrics
 - [ ] **The relationship between metrics**: Why optimizing one without the others fails
 
 ### Structural Decisions
