@@ -7,9 +7,9 @@ description: All the words none of the communication.
 
 Tech has a word problem. We take common words, overload them with framework-specific meanings, then assume everyone shares our definition. Two people can use the same word and mean completely different things — and neither one notices until the confusion has already done damage.
 
-I was once in a meeting about React and global state management. My colleague kept talking about "context" as the solution. I kept pushing back, saying context felt too heavyweight for what we needed. We went in circles for ten minutes before realizing we were talking about completely different things.
+Consider a meeting about React and global state management. One developer keeps talking about "context" as the solution. Another pushes back, saying context feels too heavyweight. They go in circles for ten minutes before realizing they're talking about completely different things.
 
-In React, "context" is a built-in API for sharing data across components without prop drilling. In many backend frameworks, "context" means a database session or request-scoped environment. We were both using our framework's definition without checking if the other person meant the same thing.
+In React, "context" is a built-in API for sharing data across components without prop drilling. In many backend frameworks, "context" means a database session or request-scoped environment. Both developers were using their framework's definition without checking if the other person meant the same thing.
 
 The meeting wasn't wasted because we were wrong. It was wasted because we never paused to align on vocabulary.
 
