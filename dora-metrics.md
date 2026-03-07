@@ -1,1 +1,186 @@
-I want to talk about and eventually make a blog about software in general. And the role of the software organization in software. And how, as a software leader, can you understand and manage and comprehend what, what direction you're going?  Like, what are you supposed to do? As a software leader, as a CTO, as a team lead, as a whatever you are. What are you trying to do?  What do you, what's your goal? And I think there's a lot of people out there that don't have a goal or they don't find a goal. I've, I've found, as I've just talked to us more and more business people, people who have started their own businesses, people who've worked on businesses, CEOs or, or whatever, and also venture capitalists.  As I talk with these people, it becomes really clear that, you know, we're all just kind of a bunch of people, and we're all trying to figure out what we're trying to do. But some people that run businesses don't think about their bottom line. And if you don't think about your bottom line, then your business doesn't do very well.  It's actually not that hard. Right? When, and a lot of advice for business owners turns into, hey, you need to keep in mind your bottom line.  And if you, and when you wake up in the morning on Monday, morning, you should be able to check your, your, your numbers, have those at the top of your head, and be able to know what sorts of levers you're going to need to pull in order to improve those numbers. Right? So, when you wake up, you have those numbers on your mind.  Right before you leave in the afternoon, when you go, and when probably when you go to bed, you're going to check those numbers again. You're gonna keep those at the forefront of your mind, and you're gonna, that's, that's what you're gonna think about. During during the night and what you're going to think about is that, what's my bottom line?  Where's my money going? And how do I improve that? How do I improve that number?  And you're just going to think about optimizing that number and that optimizing that number is going to look like a whole bunch of different things. You're going to have a whole bunch of different things you're going to have to do to optimize that, and you're going to have to hire people out. You going to have to make changes, do different things.  You know, get creative and at the end of the day, You're going to be improving that. You're going to be improving that bottom line number that you're looking at. Now, if you're a CTO, you have to do the same thing for your suborganization.  But the thing that you're going to keep it in mind isn't the bottom line. What's your bottom line? What is your bottom line?  Right? Well, and how do you know what your bottom line is? How do you know what it is?  And I have the, I have the answer for you. And it's not an answer that I have. It's not an answer that I've created.  It's not my own personal answer. It's an answer that, um, it's an answer. It's very, very simple.  And it's an answer that, uh, it has a lot of research that's backing it. Most of the research that's backing it is stuff that's like, uh, is, is Google. It's Dora.  The book Accelerate. And this is where I'm kind of getting it all. And there's 4 numbers that you should know.  But those 4 numbers are broken down into 2 categories. The 2 categories that are, that we have, are go fast and don't break stuff. Those are your 2 categories, right?  Go fast and don't break stuff. And there's a 3rd kind of hidden category that I want to talk about, but that doesn't have to do with these four metrics. And I'm going to tell you why it kind of doesn't matter anyways.  But, uh, the door metrics, when it comes to those door metrics, move fast and don't break stuff, right? So, um, when we're looking at move fast and don't break, don't break stuff. And I look at that, and that, that breaks down into, into 2, so move fast, breaks down into 2 things.  Move fast, breaks down into, um, into 2 things. The 1st is, how long does it take to go from idea to that thing is now in production? Right?  If it takes 6 months for something that's an idea to end up in production, then you're kerfuffled. You have failed. This is the wrong thing.  You don't like this. We don't like this. This is not what I want.  Right? If, now, if, if, now, let's say that I have another thing, and what's the other aspect? So you have, how long does it take to go from idea to, to, uh, to production?  And then the next thing is, how, how, uh, crap. How often? That's right.  That's the other thing. So when I'm talking about door metrics, there's 4, there's 4 things that I care about. Right?  And I think about how fast there's 2 things I care about. First one is, how long does it take to go from idea to production? And then, how, and then the 2nd one is, how long does it take to go from?  How long does it take to go from? No, no, how often do I actually put stuff out? If I'm putting stuff out once every 6 months, this is a problem.  It's been putting stuff out every single day. This is a very, very, very good thing, right? Um, I want to be putting stuff into production every single day.  This is a good thing. This makes me happy. This makes me feel successful, right?  So, That's, that's, how do I move? How do I move fast? And then the other thing is how do I not break things?  And those 2, those 2 metrics are fundamentally, how often do I actually break something in production? How often does something make it into production? And it's broken?  Right? That's, that's very simple. If, if 90% of my, if 90% of the time that I put something into production, it breaks, it's broken.  This is a bad thing. If, okay, then the other one is, how long does it take me to fix something? that is in production that is broken?  If it takes me two weeks to fix something that's in production, this is a bad thing. We don't want to take, we don't want something that's broken for broken in production for 2 weeks. Bad idea.  Bad, bad things. Not good. So how do we achieve this?  Well, okay. Actually, there's, there's a 4th, there's a 4th, there's a 5th little, little metric that, that's kind of a pseudometric. It's not really a, it's a qualitative metric.  But it has to do with value. And the question is, what volume of value is actually going into production? So if I can make stuff go into production really fast, and I cannot break things.  But the changes that I'm making don't actually make me money. Then this is also a bad thing. Right?  I want to be making changes. that ultimately make me money. This is the good thing. This is good.  Right? Make changes that make money, period. Done.  End of story. Now, that doesn't really matter. Um, for your focus, because there's so, it is so complicated, and there is so much crap that has to go on behind the scenes that, in order for you to actually make all of this stuff come together and work together, you, like, it's too complicated to make all of this come together, and it's just too complicated.  So, if you can focus as a team, on getting on the 4 metric, those 4 metrics, you're good enough, right? And worry, let the business, let the product people, let all of those people deal with, is this valuable to the customer? That's, that's one approach.  There are other approaches to that. Like, oh, okay. There's also, how do I take the value and and push it to the developers?  But it depends on the organization. All of this, all of this, ultimately, depends on the organization, depends on the size of the organization. Depends on how big you are.  Oh, how many people you're serving, what's the size of your product? All of it depends, right? And so it, it, value may, may work, may, may make sense to think about for developers, or it might not.  It really just depends on depends on the situation, depends on the situation you're in. So, what else, though? So we have these 4 metrics, right?  And these are the 4 things that we've done, and we have the 5th, but we're not going to think about it too much. For the sake of this. I, as an, as a CTO, or as an engineering director. should have those 4 numbers on the top of my head at all times.  When I when I go to sleep, I should be thinking about those numbers. When I wake up in the one, I should be thinking about those numbers. When I, when I, um, get to work, and when I have lunch, I should have those numbers on my mind, and I should have an updated version of those numbers on my mind.  And, and, and then from there, I need to start looking at and deciding what levers I need to pull in order to make things, make these four metrics balance out, and ultimately go up, right? So this is the job. This is the job of the engineering director.  This is the job of the CTO engineering director role, right? This is what you're doing. You're trying to balance these 4 metrics and make them go up.  Number go up or down. Yes, good. Right?  This is what we, this is what we do. So, the whole goal of this kind of set of blog posts is to ultimately, uh, talk about these metrics, and ultimately, process these metrics, process these capabilities into, essentially, a set of blog posts, what's the easy way to think about these capabilities so that I can find the simplest possible way to pull that lever so that I can affect I can affect the, the, the metric that I want to affect. Right?  So that's ultimately what I'm trying to do. Right? Each Dora capability is a lever.  Right? I can grab that lever and I can pull it. And if I pull this lever, then it's going to affect the metrics in this way.  If I pull that lever, it's going to affect the metrics in that way. Right? So ultimately, I want to sit here with my array of levers as a CTO, as an engineering director.  And I want to pull these different levers to ultimately, at the end of the day, when I've pulled all these levers and I've tuned these levers, my job is to keep these levers tuned so that my organization moves fast and doesn't break things. That's what, that's what I'm trying to do. That's what the Dora capabilities are all about.  Right? That's what they're all about. So in this series of documents, I'm going to go through each capability and give my ¢2 my kind of, my little, little, little way of doing it, my little thoughts on this, and how do I actually make this happen?  How do I actually turn this into something like realistic? And that's what I'm going to do. Like, what are, basically, I'm going to lay out each one of the, I, this one is a mount, this, this recording in this blog is about laying out the, Foundations of the foundations of everything.  And kind of giving a premise for what each of these little posts are. And then as I go through each one, each one of these capabilities, I'm going to slowly tweak and slowly improve what I'm what I'm doing. Right?  So, yeah. That's what I got so far. Um, yeah. 
+# Working Title: **The CTO's Dashboard: DORA Metrics as Your Leadership Compass**
+
+## Description
+A practical guide for CTOs and engineering leaders on using the 4 DORA metrics as their "bottom line"—the essential numbers that should guide daily decisions and organizational improvements, just as financial metrics guide CEOs.
+
+## Target Audience
+CTOs, VPs of Engineering, Engineering Directors, and technical leaders responsible for organizational performance and outcomes (not just individual contributor productivity).
+
+## Core Thesis
+Just as successful CEOs obsess over their financial bottom line, successful engineering leaders need a clear "bottom line" for their organizations—and the 4 DORA metrics provide exactly that: a research-backed framework for measuring whether you're moving fast without breaking things.
+
+---
+
+## Outline
+
+### Introduction: The Leader Without a Dashboard
+- **Hook**: Most business owners who fail have one thing in common—they don't track their bottom line
+- **The parallel**: Engineering leaders face the same trap—leading without clear metrics
+- **The revelation**: Through conversations with CEOs, VCs, and business leaders, the pattern becomes clear: successful leaders wake up knowing their numbers
+- **The question**: What are *your* numbers as a CTO? What should you be checking every morning?
+- **Thesis statement**: The 4 DORA metrics are your bottom line—the numbers that should occupy your mind from morning to night
+
+*[Preserve the conversational realization tone from the transcript: "we're all just kind of a bunch of people...trying to figure out what we're trying to do"]*
+
+### The CEO Mindset: What Engineering Leaders Can Learn
+- **The obsession with numbers**:
+  * Checking metrics Monday morning, before leaving, before bed
+  * Keeping numbers at the forefront of decision-making
+  * Not just knowing the numbers, but knowing what levers to pull
+- **The optimization game**: Bottom line thinking leads to hiring, changes, creativity—all in service of improving that number
+- **The translation to engineering**: You need to do the same thing, but what *is* your bottom line?
+
+*[Transition: "If you're a CTO, you have to do the same thing for your sub-organization. But the thing that you're going to keep in mind isn't the bottom line. What's your bottom line?"]*
+
+### The Answer: DORA Metrics (Not My Invention, But Your Solution)
+- **The research foundation**:
+  * Google's research, DORA (DevOps Research and Assessment)
+  * The book *Accelerate*
+  * Not personal opinion—battle-tested, research-backed
+- **The framework**: Four numbers, two categories
+- **Why this matters**: Finally, a clear answer to "what should I be measuring?"
+
+### The Framework: Move Fast and Don't Break Stuff
+
+#### Category 1: Move Fast (Velocity Metrics)
+- **Deployment Frequency**: How often do you actually ship?
+  * Daily deployments = very good
+  * Once every six months = "you're kerfuffled, you have failed"
+  * Why frequency matters more than you think
+
+- **Lead Time for Changes**: Idea to production
+  * If it takes 6 months from idea to production, something is fundamentally broken
+  * The goal: minimize this time ruthlessly
+  * What this metric reveals about your organization
+
+*[Note: Expand with examples of what "good" vs "bad" looks like in real organizations]*
+
+#### Category 2: Don't Break Stuff (Stability Metrics)
+- **Change Failure Rate**: How often does production break?
+  * If 90% of deployments break production, this is catastrophic
+  * The relationship between velocity and stability (they're not opposed)
+  * What "acceptable" looks like
+
+- **Time to Restore Service**: How fast do you fix production issues?
+  * Two weeks to fix a production issue = "bad, bad things, not good"
+  * The MTTR (Mean Time To Recovery) imperative
+  * Why this metric tests your entire system
+
+*[Preserve the emphatic, conversational tone: "Bad idea. Bad, bad things. Not good."]*
+
+### The Fifth (Pseudo-)Metric: Value and Business Impact
+- **The value question**: What volume of value reaches production?
+- **The complexity**:
+  * You can move fast and not break things...but ship nothing valuable
+  * Changes need to make money, period
+  * Why this is "qualitative" and harder to measure
+- **The organizational decision**:
+  * Option 1: Let product/business handle value, engineering handles the 4 metrics
+  * Option 2: Push value thinking down to developers
+  * It depends: org size, product maturity, team structure
+- **The practical advice**: Focus on the 4 metrics first—they're complicated enough
+  * "If you can focus as a team on getting those 4 metrics, you're good enough"
+  * Value is too complex to optimize simultaneously when you're still learning
+
+*[Flag: This section might benefit from a follow-up post on "when and how to add value metrics"]*
+
+### Your Daily Practice: Living with These Numbers
+- **Morning routine**: Wake up thinking about these 4 numbers
+- **Throughout the day**: Updated versions at lunch, end of day
+- **Before bed**: Reviewing the metrics
+- **The parallel to CEO behavior**: Same obsessive focus, different metrics
+- **What this looks like practically**:
+  * Dashboard setup
+  * Reporting cadence
+  * Making metrics visible to the team
+
+*[Gap: Need practical examples of how to track/display these metrics—consider adding specifics or noting this as implementation detail]*
+
+### From Metrics to Action: The DORA Capabilities as Levers
+- **The transition from "what" to "how"**: Knowing your numbers is step one
+- **Introduction to capabilities**: Each DORA capability is a lever you can pull
+- **The lever metaphor**:
+  * As CTO, you have an array of levers
+  * Pull this lever → affects metrics this way
+  * Pull that lever → affects metrics that way
+  * Your job: keep these levers tuned so you move fast without breaking things
+- **The capability framework**:
+  * Technical capabilities (CI/CD, test automation, trunk-based development, etc.)
+  * Process capabilities (streamlined change approval, monitoring, etc.)
+  * Cultural capabilities (learning culture, collaboration, etc.)
+- **The promise of the series**:
+  * Each capability gets its own deep dive
+  * Practical, realistic implementation advice
+  * "My 2¢, my little way of doing it"
+
+### Conclusion: This Is Your Job
+- **The clarity**: This is the job of the CTO/Engineering Director—balance these 4 metrics and make number go up (or down, depending)
+- **The series roadmap**:
+  * This post: the foundation and framework
+  * Future posts: each capability, one at a time
+  * The goal: simplest possible way to pull each lever
+- **The invitation**: Start tracking your 4 numbers tomorrow morning
+- **Final thought**: You can't improve what you don't measure—now you know what to measure
+
+*[Call to action: "When I wake up in the morning, I should be thinking about those numbers. When I go to sleep, I should be thinking about those numbers. This is what we do."]*
+
+---
+
+## Additional Notes
+
+### Strengths to Preserve
+- **Conversational, real-talk tone**: The transcript has an authentic, "figure it out together" quality that should be maintained
+- **Memorable phrases**:
+  * "You're kerfuffled, you have failed"
+  * "Move fast and don't break stuff"
+  * "Number go up or down. Yes, good."
+  * "Bad, bad things. Not good."
+- **The CEO parallel**: This is the strongest framing device—lean into it heavily
+- **Humble attribution**: "It's not my answer, it's very simple, and it has research backing it"
+
+### Gaps to Fill
+- **Specific numbers**: What do "good" DORA metrics actually look like? (Elite: deploy multiple times/day, lead time <1 hour, change failure <15%, restore <1 hour)
+- **Why these metrics matter**: Could strengthen with brief mention of the correlation between DORA metrics and business outcomes from the research
+- **Practical examples**: At least 1-2 brief stories of organizations improving their metrics
+- **How to measure**: Brief mention of tools/approaches for tracking these metrics
+- **The relationship between metrics**: Why optimizing one without the others fails
+
+### Structural Decisions
+- **Series setup**: This is clearly post #1 in a series about DORA capabilities
+  * Should explicitly state this early
+  * Should tease the upcoming capability deep-dives
+  * Consider a brief list of all capabilities that will be covered
+
+- **The value metric**:
+  * Right decision to acknowledge but not overemphasize
+  * Could be its own future post: "The 5th Metric: When and How to Measure Value"
+
+### Tone Considerations
+- **Keep the stream-of-consciousness energy**: The informal, thinking-out-loud quality is engaging
+- **Balance research credibility with accessibility**: Mention *Accelerate* and Google/DORA but don't get academic
+- **Maintain the "we're all figuring this out" humility**: This makes it more relatable than prescriptive
+- **Emphatic repetition works**: The transcript's repetition ("This is what we do. This is your job.") creates emphasis—preserve this
+
+### Potential Spin-offs
+The following tangents/ideas could become separate posts:
+1. **Deep dive on the 5th metric**: When to measure value at the engineering level vs. product level
+2. **The CEO-CTO parallel**: Expanding the business metrics comparison
+3. **DORA capabilities catalog**: A quick-reference guide to all levers available
+4. **From metrics to culture**: How obsessing over these numbers changes team behavior
+
+### Research to Add (Optional)
+- Brief stats from *Accelerate* on correlation between DORA metrics and org performance
+- Definition of "Elite/High/Medium/Low" performers from DORA research
+- Maybe a quote from the book or research to add authority
+
+---
+
+## Implementation Notes for Writing
+
+**Opening strategy**: Start with the CEO checking their bottom line at night, unable to sleep until they see the numbers. Then pivot: "Now imagine you're a CTO. What numbers keep *you* up at night? If you don't have an immediate answer, you're not alone—and you have a problem."
+
+**Middle strategy**: Use the two-category framework (Move Fast / Don't Break Stuff) as the structural spine. This is clean, memorable, and matches how the transcript naturally organizes the content.
+
+**Closing strategy**: Circle back to the opening—now you have your numbers, now you can be like that obsessive CEO, now you have clarity. End with the promise of the series teaching you how to actually *improve* these numbers.
+
+**Length target**: This could be 1500-2000 words—substantial enough to establish the framework but not so long it needs to cover the capabilities (that's the series).
