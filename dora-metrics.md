@@ -52,6 +52,7 @@ Just as successful CEOs obsess over their financial bottom line, successful engi
   * Medium performers: Once per week to once per month
   * Low performers: Once per month to once every six months ("you're kerfuffled, you have failed")
   * Why frequency matters more than you think
+  * **Example story**: A mid-size SaaS company went from monthly deploys to daily deploys over 6 months. The impact: feature requests that used to take 2-3 months to reach customers now shipped in days. Sales team could close deals faster because they could promise features would be live "next week" instead of "next quarter." The transformation wasn't just technical—it changed how the entire company operated.
 
 - **Lead Time for Changes**: Idea to production
   * Elite performers: Less than one hour
@@ -60,8 +61,7 @@ Just as successful CEOs obsess over their financial bottom line, successful engi
   * Low performers: One month to six months (something is fundamentally broken)
   * The goal: minimize this time ruthlessly
   * What this metric reveals about your organization
-
-*[Note: Expand with examples of what "good" vs "bad" looks like in real organizations]*
+  * **Real-world contrast**: Company A (elite): Developer commits a bug fix at 10am, it's in production by 11am, customers see the fix before lunch. Company B (low performer): Same bug fix takes 6 weeks—waiting for the next "release window," multiple approval gates, manual testing cycles, deployment coordination meetings. Which company do you think customers prefer?
 
 #### Category 2: Don't Break Stuff (Stability Metrics)
 - **Change Failure Rate**: How often does production break?
@@ -71,6 +71,7 @@ Just as successful CEOs obsess over their financial bottom line, successful engi
   * Low performers: 46%+ (if 90% of deployments break production, this is catastrophic)
   * The relationship between velocity and stability (they're not opposed)
   * What "acceptable" looks like
+  * **Example story**: A fintech startup tracked their change failure rate religiously. They discovered that 50% of their deployments caused incidents—terrifying for a company handling money. Over 9 months, they invested in automated testing, feature flags, and better monitoring. Their failure rate dropped to 12%. The surprise? They were now deploying 3x more frequently than before. Moving fast and not breaking things aren't opposites—they're complementary.
 
 - **Time to Restore Service**: How fast do you fix production issues?
   * Elite performers: Less than one hour
@@ -79,6 +80,7 @@ Just as successful CEOs obsess over their financial bottom line, successful engi
   * Low performers: One week to one month (two weeks = "bad, bad things, not good")
   * The MTTR (Mean Time To Recovery) imperative
   * Why this metric tests your entire system
+  * **Real incident**: An e-commerce company experienced a checkout bug on Black Friday. Elite team response: Issue detected automatically in 5 minutes, root cause identified in 15 minutes, rollback deployed in 30 minutes, total downtime under 1 hour. Lost revenue: ~$50K. Compare to a low-performer scenario: 6 hours to detect (customers called support), 8 hours debugging, 2 hours coordinating a fix. Lost revenue: potentially millions. MTTR isn't just a metric—it's money.
 
 *[Preserve the emphatic, conversational tone: "Bad idea. Bad, bad things. Not good."]*
 
@@ -153,7 +155,6 @@ Just as successful CEOs obsess over their financial bottom line, successful engi
 - **Humble attribution**: "It's not my answer, it's very simple, and it has research backing it"
 
 ### Gaps to Fill
-- **Practical examples**: At least 1-2 brief stories of organizations improving their metrics
 - **How to measure**: Brief mention of tools/approaches for tracking these metrics
 - **The relationship between metrics**: Why optimizing one without the others fails
 
