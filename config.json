@@ -1,5 +1,5 @@
 {
-    "intro": "Hi, I'm Tristan. This is my site!",
+    "intro": "Hi, I'm Tristan. This is my site! This is coming from the right place!",
     "featured_articles": ["naming-code-structures", "term-bloat", "the-hardest-thing-in-programming-is-people"],
     "all_visible_articles": ["naming-code-structures", "term-bloat", "the-hardest-thing-in-programming-is-people", "dora-metrics"]
 }
