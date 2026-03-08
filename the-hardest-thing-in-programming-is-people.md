@@ -1,7 +1,6 @@
 ---
 title: The Hardest Thing in Programming is People
 date: 02-28-2026
-image: people-complexity.png
 description: Programming is automating thought, and thought is inherently human.
 ---
 
