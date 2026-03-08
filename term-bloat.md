@@ -1,7 +1,6 @@
 ---
 title: Term Bloat
 date: 8-30-2024
-image: test-image.webp
 description: All the words none of the communication.
 ---
 
