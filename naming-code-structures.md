@@ -19,8 +19,3 @@ information without me needing to dig through a bunch of my code files. This is
 one of many reasons I've been able to deliver new features in old codebases
 quickly and safely.
 
-Interact with this post:
-
-[LinkedIn](https://www.linkedin.com/posts/tristanmbarrow_naming-code-structures-clear-and-extensive-activity-7252138616997519360-Ptfb?utm_source=share&utm_medium=member_desktop)
-
-[X](https://x.com/TBfox32/status/1846380009726136777)
