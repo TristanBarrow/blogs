@@ -1,5 +1,5 @@
 {
-    "intro": "Hi, I'm Tristan. This is my site! This is coming from the right place!",
+    "intro": "I'm Tristan Barrow — a software developer and consultant with 5+ years building production systems across React, TypeScript, C#, and cloud infrastructure. I write here about software architecture, clean code, and the craft of building things that last.",
     "featured_articles": ["naming-code-structures", "term-bloat", "the-hardest-thing-in-programming-is-people"],
     "all_visible_articles": ["naming-code-structures", "term-bloat", "the-hardest-thing-in-programming-is-people", "dora-metrics"]
 }
