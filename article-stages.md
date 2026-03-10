@@ -2,7 +2,7 @@
 title: How I Publish Articles in Stages (And Why I'm Telling You)
 date: 03-09-2026
 description: A transparent look at the multi-phase workflow that takes articles from a raw voice recording to a finished, human-reviewed post — and why every stage is published openly.
-stage: FINAL
+stage: AI_DRAFT
 ---
 
 This article is going through the exact process it describes. When you read it, it will have passed through six defined stages: a stub, a raw voice recording, an AI-generated plan, a human audit of that plan, an AI-generated draft, and finally a human review. That final stage is this. The article you are reading now is the finished product — but every earlier version existed in public, labeled for what it was.

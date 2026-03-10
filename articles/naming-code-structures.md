@@ -3,7 +3,7 @@ title: Naming Structures
 date: 10-15-2024
 image: code-structures.webp
 description: Naming Code Structures
-stage: AI_PLAN
+stage: STUB
 ---
 
 Clear and extensive naming conventions aimed at informing me about my code's

@@ -2,7 +2,7 @@
 title: Term Bloat
 date: 8-30-2024
 description: All the words none of the communication.
-stage: HUMAN_PLAN
+stage: AI_DRAFT
 ---
 
 Tech has a word problem. We take common words, overload them with framework-specific meanings, then assume everyone shares our definition. Two people can use the same word and mean completely different things — and neither one notices until the confusion has already done damage.
