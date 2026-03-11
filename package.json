@@ -2,7 +2,8 @@
   "name": "blogs",
   "private": true,
   "scripts": {
-    "ls": "bun blog.tsx"
+    "ls": "bun blog.tsx",
+    "advance": "bun blog.tsx advance"
   },
   "dependencies": {
     "ink": "^6.8.0",
