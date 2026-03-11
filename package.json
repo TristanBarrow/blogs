@@ -1,9 +1,19 @@
 {
+  "name": "blogs",
+  "private": true,
+  "scripts": {
+    "ls": "bun blog.tsx"
+  },
   "dependencies": {
     "ink": "^6.8.0",
     "react": "^19.2.4"
   },
   "devDependencies": {
-    "@types/react": "^19.2.14"
+    "@types/react": "^19.2.14",
+    "bun-types": "^1.3.10",
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
   }
 }

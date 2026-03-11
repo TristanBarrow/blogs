@@ -1,5 +1,4 @@
 #!/usr/bin/env bun
-import React from "react";
 import { render, Text, Box, useStdout } from "ink";
 import { globSync } from "fs";
 import { readFileSync } from "fs";
@@ -77,4 +76,5 @@ function ArticleList() {
   );
 }
 
-render(<ArticleList />);
+const { waitUntilExit } = render(<ArticleList />);
+waitUntilExit().finally(() => process.stdout.write("\x1B[?25h"));
